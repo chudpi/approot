@@ -1,0 +1,3 @@
+sys.path.append(os.path.join(APPROOT_DIR, 'lib'))
+
+print "\nDon't do evil things!\n"
